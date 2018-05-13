@@ -1,13 +1,13 @@
 {
-  "name": "twinkle_cats-landing_page",
+  "name": "Dom Elment",
   "version": "1.0.0",
-  "description": "This is twinkle cats landing page",
+  "description": "This is Dome Element landing page",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack"
   },
-  "author": "HM Nayem",
+  "author": "Bipon Biswas",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
